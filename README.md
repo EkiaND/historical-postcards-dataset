@@ -40,9 +40,10 @@ est double :
 Le travail suit une progression allant de la prise en main des annotations jusqu'à
 l'évaluation des modèles face à des **scores de référence**.
 
+<div align="center">
+
 ### Jalons
 
-<div align="center">
 
 | # | Étape | Objectif |
 |:---:|:---:|:---:|
