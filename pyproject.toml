@@ -1,0 +1,11 @@
+[project]
+name = "historical-postcards-dataset"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "pillow>=12.3.0",
+    "pycocotools>=2.0.11",
+]
