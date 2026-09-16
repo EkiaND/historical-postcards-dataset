@@ -42,13 +42,17 @@ l'évaluation des modèles face à des **scores de référence**.
 
 ### Jalons
 
+<div align="center">
+
 | # | Étape | Objectif |
-|---|-------|----------|
+|:---:|:---:|:---:|
 | **1** | Prise en main | Charger et explorer les annotations COCO |
 | **2** | EDA & visualisation | Distributions, tailles de boîtes, affichage annoté |
 | **3** | Détection | Détecter les zones et évaluer (précision, rappel, mAP@50) |
 | **4** | Transcription | Reconnaître le texte et mesurer (Levenshtein, Jaccard, CER) |
 | **5** | Stretch (libre) | Comparaisons de modèles, cas difficiles, NLP… |
+
+</div>
 
 ---
 
